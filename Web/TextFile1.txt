@@ -1,0 +1,3 @@
+﻿新增(Create)、讀取(Read)、更新(Update)、刪除(Delete) 列表(List)
+http://wiki.jikexueyuan.com/project/mongodb/
+
